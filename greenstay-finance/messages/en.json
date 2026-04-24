@@ -1,0 +1,47 @@
+{
+  "title": "GreenStay Finance",
+  "subtitle": "Simulate the financial impact of your sustainability certifications",
+  "navbar": {
+    "lightMode": "Light mode",
+    "darkMode": "Dark mode",
+    "language": "Language"
+  },
+  "form": {
+    "yourHotel": "Your hotel",
+    "hotelName": "Hotel name",
+    "hotelNamePlaceholder": "e.g. Paradise Hotel",
+    "rooms": "Number of rooms",
+    "roomsPlaceholder": "e.g. 150",
+    "area": "Total area m²",
+    "areaPlaceholder": "e.g. 5000",
+    "currentMetrics": "Current metrics",
+    "adr": "Current ADR €",
+    "adrPlaceholder": "120",
+    "occupancy": "Occupancy rate %",
+    "occupancyPlaceholder": "65",
+    "energyConsumption": "Energy consumption",
+    "energyKwh": "Energy consumption kWh/year",
+    "energyKwhPlaceholder": "e.g. 150000",
+    "waterM3": "Water consumption m³/year",
+    "waterM3Placeholder": "e.g. 2500",
+    "priceKwh": "Price kWh €",
+    "priceKwhPlaceholder": "0.18",
+    "priceWater": "Price m³ water €",
+    "priceWaterPlaceholder": "2.00",
+    "startSimulation": "Start simulation",
+    "required": "Required field",
+    "invalidNumber": "Must be a valid number",
+    "occupancyRange": "Occupancy must be between 0 and 100%",
+    "success": "Data saved successfully"
+  },
+  "errors": {
+    "hotelName": "Please enter the hotel name",
+    "rooms": "Please enter the number of rooms",
+    "area": "Please enter the area",
+    "adr": "Please enter the current ADR",
+    "occupancy": "Please enter the occupancy rate",
+    "occupancyRange": "Occupancy must be between 0 and 100",
+    "energyKwh": "Please enter the energy consumption",
+    "waterM3": "Please enter the water consumption"
+  }
+}
